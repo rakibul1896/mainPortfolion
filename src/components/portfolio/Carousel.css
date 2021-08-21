@@ -1,0 +1,9 @@
+div.crausal ol li {
+  background-color: rgba(5, 194, 201, 1);
+}
+div.crausal .carousel-control-next-icon {
+  background-image: url('../../images/right-array.svg');
+}
+div.crausal .carousel-control-prev-icon {
+  background-image: url('../../images/left-array.svg');
+}
